@@ -8,7 +8,7 @@ import java.util.concurrent.atomic.AtomicInteger;
 
 public class CPFValidator {
 
-	public static final int NUM_THREADS = 2; // Altere conforme necessário
+	public static final int NUM_THREADS = 1; // Altere conforme necessário
 
     public static boolean validaCPF(String cpf) {
         cpf = cpf.replaceAll("\\D", "");
