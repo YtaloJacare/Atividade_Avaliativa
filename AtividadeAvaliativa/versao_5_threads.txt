@@ -1,0 +1,2 @@
+Número de threads: 5
+Tempo total de execução: 1068 ms / 1.068 segundos
